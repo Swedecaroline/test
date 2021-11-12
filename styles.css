@@ -1,0 +1,80 @@
+
+body{background-image: url(images/pixel-heart.png);
+
+	color:#black;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	line-height:1.6em;
+	margin:50px;
+}
+
+h1 {
+  text-align: left;
+}
+
+header h1 {
+  text-align: center;
+}
+ h2, h3 {
+  margin-bottom: 20px;
+  background-color: #cce6ff
+}
+
+p {
+  margin: 15px 0;
+}
+ul, ol {
+margin: 15px 0;
+}
+p{
+  background-color:papayawhip;
+  color:#black;
+  font-family:"Sofia", Helvetica, sans-serif;
+  font-size:14px;
+  line-height: 3;
+  padding-left: 10 px;
+	padding-right: 10 px;
+	padding-top:  10 px;
+	padding-bottom:  10 px;
+	border-color: blue;
+	border-style: solid;
+	border-top: 10 px;
+	border-left: 10 px;
+	border-right: 10 px;
+	border-bottom: 10 px;
+	margin-left: 10 px;
+	margin-right: 10 px;
+	margin-top: 10 px;
+	margin-bottom: 10 px;
+
+
+}
+a{
+  color: red;
+  text-decoration:none;
+}
+a:hover {
+  text-decoration: underline;
+  color: blue;
+}
+
+footer {
+  padding: 30px;
+}
+
+.h1white{
+	color:white;
+}
+.h1blue{
+	color:blue;
+}
+.h1green{
+	color:green;
+}
+.box{border: 1px solid black;
+  padding: 30px;
+ }
+ .box p {
+  font-size: 24px;
+	background-image: url(images/moroccan-flower.png);
+}
